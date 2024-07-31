@@ -1,5 +1,5 @@
 # Wati-iteration1
-Basic Wati HTML,CSS,Js+FastAPI working model<br>
+<b>Basic Wati HTML,CSS,Js+FastAPI working model</b><br>
 Monolithic code<br>
 
 <br>
@@ -9,7 +9,7 @@ access_token<br>
 BUSINESS_ACCOUNT_ID<br>
 PHONE_NUMBER_ID<br>
 <br>
-Install requirements.txt 'pip install -r requirements.txt
+Install <i>requirements.txt</i> 'pip install -r requirements.txt
 '<br>
 Run <i>main.py</i> in terminal: 'univcorn main:app --reload --port 8000'<br>
-Open the index.html using live server or from the file explorer<br>
+Open the <i>index.html</i> using live server or from the file explorer<br>
