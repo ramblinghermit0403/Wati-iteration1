@@ -11,5 +11,5 @@ PHONE_NUMBER_ID<br>
 <br>
 Install requirements.txt 'pip install -r requirements.txt
 '<br>
-Run main.py in terminal: 'univcorn main:app --reload --port 8000'<br>
+Run <i>main.py</i> in terminal: 'univcorn main:app --reload --port 8000'<br>
 Open the index.html using live server or from the file explorer<br>
